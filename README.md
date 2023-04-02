@@ -41,12 +41,12 @@ Overall, FitnessFreak is a comprehensive and convenient online fitness platform.
 
 <h2>Contributers<h2>
   <li>
-    <ul>P.Karun Raj</ul><li>
+    <ul>P.Karun Raj</ul></li>
   <li>
-    <ul>S.V.V.Satya Narayana Reddy</ul><li>
+    <ul>S.V.V.Satya Narayana Reddy</ul></li>
   <li>
-    <ul>V.Sai Nivas</ul><li>
+    <ul>V.Sai Nivas</ul></li>
   <li>
-    <ul>S.Jaya Sree</ul><li>
+    <ul>S.Jaya Sree</ul></li>
 
   

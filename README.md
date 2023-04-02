@@ -12,3 +12,13 @@ In addition to online training, FitnessFreak also provides members with access t
 Overall, FitnessFreak is a comprehensive and convenient online fitness platform. With a wide range of fitness programs and resources available, FitnessFreak is the perfect solution for anyone looking to improve their health and fitness from the comfort of their own home.</p>
 
 <h2>Features</h2>
+<li> Online Video Interaction: This enables members to receive personalized training and guidance from the comfort of their own home.</li>
+
+<li> Online Chat: This allows individuals to ask questions and receive guidance from fitness professionals or other users quickly.</li>
+
+<li> Wide Range of Fitness Programs: Each program is designed to cater to different fitness levels and goals, ensuring that members receive the most effective training possible.</li>
+
+<li> Certified Fitness Trainers: All of the trainers at Fitness Freak are certified and highly experienced.</li>
+
+<li> Access to Useful Resources: Fitness Freak provides members with access to a range of useful resources, including nutrition guides, workout plans, and fitness tracking tools.</li>
+

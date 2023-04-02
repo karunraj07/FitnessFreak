@@ -24,6 +24,6 @@ Overall, FitnessFreak is a comprehensive and convenient online fitness platform.
 
 <h2>Flow of the Project</h2>
 
-<li><ul>User Login<ul>The User and Trainer log in to the platform using their registered email and password.</ul></ul></li>
+<li><ul>User Login:<ul>The User and Trainer log in to the platform using their registered email and password.</ul></ul></li>
 
   

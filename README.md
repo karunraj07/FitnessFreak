@@ -1,4 +1,4 @@
-<h1>FitnessFreak-The online fitness classes</h1>
+<h1>FitnessFreak</h1>
 
 <h2>Overview</h2>
 <p>FitnessFreak is an online fitness platform that offers a convenient and effective way for fitness enthusiasts to achieve their health and fitness goals. With the help of certified fitness trainers, members can engage in online video chat or interaction to receive personalized training and guidance from the comfort of their own home.

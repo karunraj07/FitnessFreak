@@ -39,7 +39,7 @@ Overall, FitnessFreak is a comprehensive and convenient online fitness platform.
 <h4>TOOLS :</h4>
 <li>GITHUB</li>
 
-<h2>Contributers<h2>
+<h2>Contributers</h2>
   <li>
     <ul>P.Karun Raj</ul></li>
   <li>

@@ -22,3 +22,8 @@ Overall, FitnessFreak is a comprehensive and convenient online fitness platform.
 
 <li><ul> Access to Useful Resources: Fitness Freak provides members with access to a range of useful resources, including nutrition guides, workout plans, and fitness tracking tools.</ul></li>
 
+<h2>Flow of the Project</h2>
+
+<li><ul>User Login<ul>The User and Trainer log in to the platform using their registered email and password.</ul></ul></li>
+
+  

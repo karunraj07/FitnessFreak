@@ -16,7 +16,7 @@ Overall, FitnessFreak is a comprehensive and convenient online fitness platform.
 
 <li> Online Chat: This allows individuals to ask questions and receive guidance from fitness professionals or other users quickly.</li>
 
-<li><p> Wide Range of Fitness Programs: Each program is designed to cater to different fitness levels and goals, ensuring that members receive the most effective training possible.<p></li>
+<li> Wide Range of Fitness Programs: Each program is designed to cater to different fitness levels and goals, ensuring that members receive the    most effective training possible.</li>
 
 <li> Certified Fitness Trainers: All of the trainers at Fitness Freak are certified and highly experienced.</li>
 

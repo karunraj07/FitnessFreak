@@ -25,5 +25,18 @@ Overall, FitnessFreak is a comprehensive and convenient online fitness platform.
 <h2>Flow of the Project</h2>
 
 <li><ul>User Login:<ul>The User log in to the platform using their registered email and password.</ul></ul></li>
+----//on progress....//
+
+<h2>Tools</h2>
+<h3>FRONT END :</h3>
+<li>HTML</li>
+<li>CS</li>
+<li>JAVA SCRIPT</li>
+<h3>BACKEND :</h3>
+<li>FIREBASE</li>
+<h3>DEPLOYMENT :</h3>
+<li>GOOGLE CLOUD</li>
+<h3>TOOLS :</h3>
+<li>GITHUB</li>
 
   

@@ -1,0 +1,49 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+body{
+  padding: 0px;
+  margin: 0px;
+  overflow: none;
+  background-image: url("https://cdn.pixabay.com/photo/2015/01/09/11/22/fitness-594143_1280.jpg");
+  background-repeat: repeat;
+  height: 5000px;
+}
+.material-symbols-outlined {
+  /* filter: invert(100); */
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 500,
+  'GRAD' 0,
+  'opsz' 48
+}
+.navbar{
+  background-image: linear-gradient(to right, black, transparent);
+}
+.left{
+  position: absolute;
+  top: 23px;
+  left: 22px;
+}
+.mid{
+  display: block;
+  width: 40%;
+  margin: 0px auto;
+  padding: 22px;
+}
+.nav li{
+  display: inline-block;
+}
+.nav li a{
+  color: whitesmoke;
+  text-decoration: none;
+  font-size: 18px;
+  font-family: 'Exo 2','Libre Baskerville', 'Comfortaa', cursive;
+  padding: 0px 25px 0px 0px;
+}
+.right{
+  position: absolute;
+  top: 19px;
+  right: 35px;
+}

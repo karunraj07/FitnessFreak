@@ -8,7 +8,7 @@ body{
   overflow: none;
   background-image: url("https://cdn.pixabay.com/photo/2015/01/09/11/22/fitness-594143_1280.jpg");
   background-repeat: repeat;
-  height: 5000px;
+  /* height: 5000px; */
 }
 .material-symbols-outlined {
   /* filter: invert(100); */
@@ -19,31 +19,60 @@ body{
   'opsz' 48
 }
 .navbar{
-  background-image: linear-gradient(to right, black, transparent);
+  display: flex;
+  justify-content: center;
+  padding: 22px 0px;
+  gap: 8%;
+  background-image: linear-gradient(to right, black, transparent, black);
 }
-.left{
-  position: absolute;
-  top: 23px;
-  left: 22px;
+.logo{
+  margin: auto 0px;
 }
-.mid{
-  display: block;
-  width: 40%;
-  margin: 0px auto;
-  padding: 22px;
+.section_links{
+  list-style: none;
+  margin: auto 0px;
 }
-.nav li{
-  display: inline-block;
+.section_links li{
+  display: inline;
 }
-.nav li a{
-  color: whitesmoke;
+.section_links li a{
   text-decoration: none;
-  font-size: 18px;
-  font-family: 'Exo 2','Libre Baskerville', 'Comfortaa', cursive;
-  padding: 0px 25px 0px 0px;
+  color: white;
+  font-family: 'Exo 2', 'Outfit', cursive;
+  margin: auto 30px auto 0px;
 }
-.right{
+.action_btn{
+  margin: auto 0px;
+  padding: 5px 8px;
+  font-family: 'Outfit', cursive, 'Times New Roman', Times, serif;
+  text-decoration: none;
+  color: rgb(85,26,139);
+  font-weight: bold;
+  border: rgb(85,26,139) solid 2px;
+  border-radius: 8px;
+}
+.menu{
+  /* display: none; */
+  color: 	rgb(233, 220, 201);
+}
+
+#section_1, #section_2, #section_3, #section_4, #section_5{
+  height: 500px;
+}
+
+#section_1{
+  background-image: url("https://youtu.be/UG3RghzKp_Y");
+}
+
+.bg-video{
   position: absolute;
-  top: 19px;
-  right: 35px;
+  margin: 0px 0px 0px 0px;
+  z-index: -1;
+  filter: blur(8px);
+}
+@media (min-aspect-ratio: 16/9) {
+  .bg-video{
+    width: auto;
+    height: 100%;
+  }
 }

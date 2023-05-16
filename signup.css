@@ -1,16 +1,17 @@
 :root {
-    --primary-color: #4EA685;
-    --secondary-color: #57B894;
-    --black: #000000;
-    --white: #ffffff;
+    --primary-color: #f5a425;
+    --secondary-color: #f5a425;
+    --black: #007bff;
+    --white:#fff;
     --gray: #efefef;
     --gray-2: #757575;
 
-    --facebook-color: #4267B2;
+    --facebook-color: #c08f2c;
     --google-color: #DB4437;
     --twitter-color: #1DA1F2;
     --insta-color: #E1306C;
 }
+
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap');
 
@@ -25,6 +26,7 @@ html,
 body {
     height: 100vh;
     overflow: hidden;
+    background-color:rgb(22,34,57);
 }
 
 .container {
@@ -103,6 +105,7 @@ body {
     border: none;
     background-color: var(--primary-color);
     color: var(--white);
+    font-family: 'Chakra Petch', sans-serif;
     font-size: 1.2rem;
     outline: none;
 }

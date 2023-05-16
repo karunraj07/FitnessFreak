@@ -5,6 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="signup.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500&display=swap" rel="stylesheet">
     <title>Document</title>
 </head>
 <body>
@@ -19,6 +22,11 @@
 							<i class='bx bxs-user'></i>
 							<input type="text" placeholder="Username">
 						</div>
+						<div class="input-group radio">
+							<i class='bx bx-mail-send'></i>
+							<input type="radio" name="gender" value="male"> Male
+							<input type="radio" name="gender" value="female"> Female
+						</div>
 						<div class="input-group">
 							<i class='bx bx-mail-send'></i>
 							<input type="email" placeholder="Email" id="signup_email">
@@ -31,8 +39,8 @@
 							<i class='bx bxs-lock-alt'></i>
 							<input type="password" placeholder="Confirm password">
 						</div>
-						<button value="Sign up" id="signup_btn">
-							Sign up
+						<button value="Sign Up" id="signup_btn">
+						      Sign up
 						</button>
                         <!-- <input type="button" placeholder="Sign up" value="Sign up" id="signup_btn" style=""> -->
 						<p>
@@ -40,7 +48,7 @@
 								Already have an account?
 							</span>
 							<b onclick="toggle()" class="pointer">
-								Sign in here
+								Login here
 							</b>
 						</p>
 					</div>
@@ -54,14 +62,14 @@
 					<div class="form sign-in">
 						<div class="input-group">
 							<i class='bx bxs-user'></i>
-							<input type="text" placeholder="Username">
+							<input type="text" placeholder="Username/Email">
 						</div>
 						<div class="input-group">
 							<i class='bx bxs-lock-alt'></i>
 							<input type="password" placeholder="Password">
 						</div>
 						<button>
-							Sign in
+							Log in
 						</button>
 						<p>
 							<b>
@@ -73,7 +81,7 @@
 								Don't have an account?
 							</span>
 							<b onclick="toggle()" class="pointer">
-								Sign up here
+								Sign Up here
 							</b>
 						</p>
 					</div>
@@ -157,14 +165,15 @@
             const email = document.querySelector("#signup_email").value;
             const password = document.querySelector("#signup_pass").value;
             createUserWithEmailAndPassword(auth, email, password)
-                .then((userCredential) => {
-                    const user = userCredential.user;
-                    alert("You have successfully signed up")
-                })
-                .catch((error) => {
-                    const errorCode = error.code;
-                    const errorMessage = error.message;
-                });
+			.then((userCredential) => {
+				const user = userCredential.user;
+				alert("You have successfully signed up")
+			})
+			.catch((error) => {
+				const errorCode = error.code;
+				const errorMessage = error.message;
+				alert("Password must contain atleast 6 characters")
+			});
         }
         )
     </script>

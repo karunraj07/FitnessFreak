@@ -31,6 +31,7 @@ Overall, FitnessFreak is a comprehensive and convenient online fitness platform.
         </ul>
     </li>
     <li><ul>Main page: <ul>In this page the user can access their own account and train with their personalised trainer in online call/chat.</ul></ul></li>
+    <li><ul>BMI Calculator: <ul>A BMI calculator is a tool that estimates an individual's body mass index (BMI) based on their height and weight. BMI is a numerical value derived from a person's weight and height and is commonly used to assess whether a person has a healthy body weight.</ul></ul></li>
     <li><ul>Conference call: <ul>In the conference the user wiil be suggested the tranng tips by thr trainer. </ul></ul></li>
     <li><ul>Tips by trainer: <ul>After the conference the user guided the proper diet to mantain his/her body fit.</ul></ul></li>
 

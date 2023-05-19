@@ -3,7 +3,7 @@
   <head>
     <link
       rel="shortcut icon"
-      href="https://videosdk.live/favicon/favicon.ico"
+      href="./assets/favicon_io/android-chrome-512x512.png"
     />
     <meta charset="UTF-8" />
 
@@ -39,7 +39,7 @@
       rel="stylesheet"
     />
     <link href="index.css" rel="stylesheet" />
-    <title>JS-SDK | videosdk.live</title>
+    <title>FitnessFreak.live</title>
     <style>
       #screenShare {
         /* margin-top: 20px; */
@@ -53,7 +53,7 @@
   <body>
     <!--home-page start-->
     <div class="home-page" id="home-page">
-      <div class="flex" style="margin-top: 300px">
+      <div class="flex" style="margin: 250px;">
         <div class="flex-container col-auto">
           <center>
             <button
@@ -202,12 +202,12 @@
 
         <!--join screen right grid start-->
         <div class="join-right" style="width: 350px">
-          <h1 style="text-align: center">JOIN PAGE</h1>
+          <h1 style="text-align: center; margin-left: 125px; color: bisque;font-family: 'rische';">JOIN PAGE</h1>
           <div>
             <div class="class-control row" style="margin-top: 120px">
               <div class="col-1">
                 <img
-                  src="./assets/icons/svg-path.svg"
+                  src="./assets/icon/svg-path.svg"
                   height="25px"
                   width="25px"
                 />
@@ -390,12 +390,13 @@
           style="margin-top: 13px; position: static; align-content: right"
         >
           <div class="d-flex justify-content-end">
-            <button
+            <!-- <button
               type="button"
               id="btnStartRecording"
               class="btn btn-outline-light"
             >
               <span class="material-icons"> radio_button_checked </span>
+              <div class="record">Radio button</div>
             </button>
             <button
               type="button"
@@ -404,7 +405,7 @@
               class="btn btn-light"
             >
               <span class="material-icons"> radio_button_checked </span>
-            </button>
+            </button> -->
             <button
               type="button"
               id="btnRaiseHand"
@@ -608,6 +609,7 @@
     <script src="index.js"></script>
     <script src="https://sdk.videosdk.live/js-sdk/0.0.54/videosdk.js"></script>
     <script src="config.js"></script>
+    <script src="config.example.js"></script>
   </body>
   <div id="viewer"></div>
 </html>

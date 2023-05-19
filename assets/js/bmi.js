@@ -32,15 +32,21 @@ function countBmi() {
     var result = "";
     if (bmi < 18.5) {
         result = "Underweight";
+        window.location.href="./train.html"
     } else if (18.5 <= bmi && bmi <= 24.9) {
         result = "Healthy";
+        window.location.href="./train.html"
     } else if (25 <= bmi && bmi <= 29.9) {
         result = "Overweight";
+        window.location.href="./train.html"
     } else if (30 <= bmi && bmi <= 34.9) {
         result = "Obese";
+        window.location.href="./train.html"
     } else if (35 <= bmi) {
         result = "Extremely obese";
+        window.location.href="./train.html"
     }
+    alert("Click on ok")
     var h1 = document.createElement("h1");
     var h2 = document.createElement("h2");
     var t = document.createTextNode(result);

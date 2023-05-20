@@ -46,7 +46,7 @@ function countBmi() {
         result = "Extremely obese";
         window.location.href="./train.html"
     }
-    alert("Click on ok")
+//     alert("Click on ok")
     var h1 = document.createElement("h1");
     var h2 = document.createElement("h2");
     var t = document.createTextNode(result);

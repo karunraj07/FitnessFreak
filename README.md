@@ -47,6 +47,8 @@ Overall, FitnessFreak is a comprehensive and convenient online fitness platform.
 <li>GOOGLE CLOUD</li>
 <h4>TOOLS :</h4>
 <li>GITHUB</li>
+<h4>Webpage</h4>
+<li><a href="https://fitness-freak-git-main-sudheeerreddysabbella.vercel.app/">FitnessFreak</li>
 
 <h2>Contributers</h2>
   <li>

@@ -58,6 +58,6 @@ Overall, FitnessFreak is a comprehensive and convenient online fitness platform.
   <li>
     <ul>V.Sai Nivas - <a href="https://github.com/sainivasvinnakota">GITHUB</a></ul></li>
   <li>
-    <ul>S.Jaya Sree Varma- <a href="https://github.com/kamalsivuku">GITHUB</a></ul></li>
+    <ul>S.Jaya Sree Varma- <a href="https://github.com/Jayasreevarma">GITHUB</a></ul></li>
 
   
